@@ -9,11 +9,11 @@ click>=8.2.1
 importlib-metadata>=6.11.0
 packaging>=23.2
 huggingface-hub>=0.34.3
-langchain_community
-sentencepiece>=0.2.0
-faiss-cpu
+langchain>=0.1.0
+langchain_community>=0.0.10
 PyPDF2
 langchain_google_genai
 torch
 sentence-transformers
 langchain-huggingface
+faiss-cpu
