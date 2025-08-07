@@ -111,7 +111,7 @@ def main():
     if not initialize_session_state():
         return
     
-    st.header("📚🚀 DocuSpark AI – Upload Any Document, Get Instant Answers from Your PDFs 💡")
+    st.header("📚🚀 PDF_Spark AI – Upload Any Document, Get Instant Answers from Your PDFs 💡")
     
     # Sidebar for document upload and controls
     with st.sidebar:
@@ -223,3 +223,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
